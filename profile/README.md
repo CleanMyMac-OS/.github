@@ -45,7 +45,7 @@ CleanMyMac X combines cleaning, privacy protection, malware removal, system opti
   ![CleanMyMac X Space Lens](https://ux-design-awards.com/media/pages/winners/cleanmymac-x/59ff50d45c-1625828641/76_bild3.jpg)
 
 - **Smart Scan in Action**  
-  ![CleanMyMac X Cleaning](https://cdn.lifehacker.ru/wp-content/uploads/2018/09/Snimok-ekrana-2018-09-05-v-12.59.22_1536141598-1140x599.jpg)
+  ![CleanMyMac X Cleaning](https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/05/in-progress.png?ssl=1)
 
 ---
 
