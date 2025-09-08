@@ -147,7 +147,6 @@ Yes, you can schedule **Smart Scan** to run regularly and periodically review **
 </a>
 </div>
 
----
 
 ## SEO Keywords
 
